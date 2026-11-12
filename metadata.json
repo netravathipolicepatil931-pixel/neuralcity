@@ -1,0 +1,6 @@
+{
+  "name": "Neural City - AI Urban Infrastructure Digital Twin",
+  "description": "Bengaluru AI-powered urban infrastructure digital twin for real-time monitoring, AI traffic & flood prediction, infrastructure telemetry, emergency routing, and connected what-if disaster simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
